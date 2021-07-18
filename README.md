@@ -10,4 +10,4 @@
 - 2D heatflux simulation <br/>
 <a href="https://github.com/FatihDmrcn/heatflux_2d"><img src="https://raw.github.com/FatihDmrcn/heatflux_2d/main/misc/gui.PNG" alt="heatflux" width="550"/></a>
 - Flight Gauge <br/>
-<a href="https://github.com/FatihDmrcn/fhp_tunnel"><img src="https://raw.github.com/FatihDmrcn/flight_gauge/main/misc/gui.PNG" alt="gauge" width="550"/></a>
+<a href="https://github.com/FatihDmrcn/flight_gauge"><img src="https://raw.github.com/FatihDmrcn/flight_gauge/main/misc/gui.PNG" alt="gauge" width="550"/></a>
