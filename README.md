@@ -6,7 +6,7 @@
 
 #### Examples
 - FHP Simulation using Rust
-<a href="https://github.com/FatihDmrcn/fhp_rust"><img src="https://raw.github.com/FatihDmrcn/regrs/main/misc/animated.gif" alt="fhp" width="550"/></a>
+<a href="https://github.com/FatihDmrcn/fhp_rust"><img src="https://raw.github.com/FatihDmrcn/fhp_rust/main/misc/animated.gif" alt="fhp" width="550"/></a>
 - Utilizing parallelization in Rust to quickly compute the R² predicted statistic; and make it available with a Python package. It is meant to be enhanced for a more or less complete OLS analysis in Python, but using compiled Rust.
 <a href="https://github.com/FatihDmrcn/regrs"><img src="https://raw.github.com/FatihDmrcn/regrs/main/misc/img.png" alt="r2_predicted" width="550"/></a>
 - Cellular automaton for fluid dynamic simualtion <br/>
